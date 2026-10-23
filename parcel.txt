@@ -9,3 +9,8 @@ Weight (KG)     : 4.5
 Destination     : 641602
 Status          : Received
 ------------------------------------
+Tracking Number : TRK1001
+Weight : 4.50 KG
+Destination : 641602
+Status : Received
+--------------------------
